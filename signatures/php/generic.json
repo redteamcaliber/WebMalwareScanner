@@ -1,0 +1,31 @@
+{
+  "Database_Name": "Generic malware database",
+  "Database_Signatures": [
+    {
+      "Malware_Name": "Generic PHP malware",
+      "Malware_Signatures": [
+        "function.*for.*strlen.*isset",
+        "\\$_POST\\[\\'cmd\\'\\]=\\\"uname -ar ; pwd ; id ; ls -la ;\\\";",
+        "foreach\\(array\\(36,112,61,64,36,95,80,79,83,84,91,39",
+        "sprintf\\(\\(substr\\(urlencode\\(print_r\\(array\\(\\),1\\)\\)",
+        "\\$s_func=\"cr\"\\.\"eat\"\\.\"e_fun\"\\.\"cti\"\\.\"on\";",
+        "\\@\\$b374k",
+        "eval\\(base64_decode\\(\"",
+        "\\$_F=__FILE__;\\$_X=",
+        "wget http\\:\\/\\/packetstormsecurity\\.org",
+        "c999sh_surl",
+        "I just want to be the best defacer",
+        "buasueu64_duecuoudue",
+        "wcwrwewawtew_wfwunwction",
+        "\\$GLOBALS.*\\\\x",
+        "bqaqseq64q_dqeqcqodqe",
+        "zczrzeatzez_fzuznzcztzizozn",
+        "x_superfetch\\(\\$a\\[1\\],\\$a\\[2\\],\\$a\\[3\\],\\$a\\[4\\]\\);",
+        "\\/KOFEjc",
+        "if \\(\\$_FILES\\[\\'F1l3\\'\\]\\) \\{move_uploaded_file",
+        "\\\"\\)\\\\x29\\);\\\"",
+        "\\\\x7ainf\\\\x6ca\\\\x74\\\\x65"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Database_Name": "Generic malware database",
+  "Database_Signatures": [
+    {
+      "Malware_Name": "Generic Javascript malware",
+      "Malware_Signatures": [
+        "eval\\(eval\\('String.fromCharCode",
+        "eval\\(decodeURIComponent"
+      ]
+    }
+  ]
+}
